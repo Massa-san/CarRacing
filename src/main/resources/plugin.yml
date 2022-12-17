@@ -1,0 +1,7 @@
+name: CarRacing
+version: '${project.version}'
+main: massajp.carracing.CarRacing
+api-version: 1.15
+
+commands:
+  item:
